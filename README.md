@@ -2,7 +2,7 @@
 ## Welcome to my GitHub
 
 
-![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+<img src="https://tenor.com/bGcDZ.gif"/> 
 
 <!---
 Majestozz/Majestozz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
