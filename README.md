@@ -18,13 +18,16 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40" />
 
+<div align="left">
+<img margin="auto" src="https://media.giphy.com/media/fe3NDdz8tl6Vwm4xbr/giphy.gif">
+</div>
+
 ## My Statics
 <div>
 <a href="https://github.com/Majestozz">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Majestozz&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Majestozz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
 
 ## Contacts
 
