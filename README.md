@@ -9,12 +9,10 @@
 ### I'm Brazilian with English for reading and translating
 
 ## My Technologies
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40" />
-            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 
 <div align="left">
 <img margin="auto" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWRuYnppMWtnaTRyZGd4djA5MTl5em9lZmRwdXZoaTd3eDA2M2xkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6heqPsKie867Q7ob7w/giphy.gif">
