@@ -9,10 +9,10 @@
 ### I'm Brazilian with English for reading and translating
 
 ## My Technologies
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" width="40" height="40" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="40" height="40" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" width="40" height="40" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"  width="40" height="40"/>
 
 <div align="left">
 <img margin="auto" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWRuYnppMWtnaTRyZGd4djA5MTl5em9lZmRwdXZoaTd3eDA2M2xkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6heqPsKie867Q7ob7w/giphy.gif">
