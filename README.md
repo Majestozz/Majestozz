@@ -18,11 +18,7 @@
 <img margin="auto" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWRuYnppMWtnaTRyZGd4djA5MTl5em9lZmRwdXZoaTd3eDA2M2xkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6heqPsKie867Q7ob7w/giphy.gif">
 
 ## My Statics
-<div>
-<a href="https://github.com/Majestozz">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Majestozz&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Majestozz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
 
 ## Contacts
 
